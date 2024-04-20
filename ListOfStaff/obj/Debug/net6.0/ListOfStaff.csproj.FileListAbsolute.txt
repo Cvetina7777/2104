@@ -1,0 +1,14 @@
+C:\Users\ickob\Documents\na Cvetinka\damashana2104\ListOfStaff\bin\Debug\net6.0\ListOfStaff.exe
+C:\Users\ickob\Documents\na Cvetinka\damashana2104\ListOfStaff\bin\Debug\net6.0\ListOfStaff.deps.json
+C:\Users\ickob\Documents\na Cvetinka\damashana2104\ListOfStaff\bin\Debug\net6.0\ListOfStaff.runtimeconfig.json
+C:\Users\ickob\Documents\na Cvetinka\damashana2104\ListOfStaff\bin\Debug\net6.0\ListOfStaff.dll
+C:\Users\ickob\Documents\na Cvetinka\damashana2104\ListOfStaff\bin\Debug\net6.0\ListOfStaff.pdb
+C:\Users\ickob\Documents\na Cvetinka\damashana2104\ListOfStaff\obj\Debug\net6.0\ListOfStaff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ickob\Documents\na Cvetinka\damashana2104\ListOfStaff\obj\Debug\net6.0\ListOfStaff.AssemblyInfoInputs.cache
+C:\Users\ickob\Documents\na Cvetinka\damashana2104\ListOfStaff\obj\Debug\net6.0\ListOfStaff.AssemblyInfo.cs
+C:\Users\ickob\Documents\na Cvetinka\damashana2104\ListOfStaff\obj\Debug\net6.0\ListOfStaff.csproj.CoreCompileInputs.cache
+C:\Users\ickob\Documents\na Cvetinka\damashana2104\ListOfStaff\obj\Debug\net6.0\ListOfStaff.dll
+C:\Users\ickob\Documents\na Cvetinka\damashana2104\ListOfStaff\obj\Debug\net6.0\refint\ListOfStaff.dll
+C:\Users\ickob\Documents\na Cvetinka\damashana2104\ListOfStaff\obj\Debug\net6.0\ListOfStaff.pdb
+C:\Users\ickob\Documents\na Cvetinka\damashana2104\ListOfStaff\obj\Debug\net6.0\ListOfStaff.genruntimeconfig.cache
+C:\Users\ickob\Documents\na Cvetinka\damashana2104\ListOfStaff\obj\Debug\net6.0\ref\ListOfStaff.dll
